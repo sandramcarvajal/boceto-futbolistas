@@ -8,6 +8,9 @@ El proyecto inicia con la creación de un **boceto (wireframe)** y posteriorment
 
 <img width="1873" height="866" alt="image" src="https://github.com/user-attachments/assets/dc6238a3-ccf0-42f1-88d7-7cfb7a0be8eb" />
 
+<img width="699" height="323" alt="image" src="https://github.com/user-attachments/assets/6f2a3bb3-f412-49b2-ac07-e960d8e122f6" />
+
+
 
 ---
 
