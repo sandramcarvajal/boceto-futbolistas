@@ -2,7 +2,9 @@
 
 Este repositorio contiene el proceso de **diseño e implementación** de una página web estática titulada **“Los Mejores Futbolistas del Mundo”**.
 
-El proyecto inicia con la creación de un **boceto (wireframe)** y posteriormente se desarrolla usando **HTML y CSS**, tomando como base dicho diseño.
+El proyecto inicia con la creación de un **boceto (wireframe)** y posteriormente se desarrolla usando **HTML, CSS y JavaScript**, tomando como base dicho diseño.
+
+<img width="1888" height="908" alt="image" src="https://github.com/user-attachments/assets/fced9bed-7bac-47f8-8c00-6928d5ee91a5" />
 
 ---
 
