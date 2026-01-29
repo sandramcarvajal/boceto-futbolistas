@@ -1,6 +1,8 @@
-# Mejores Futbolistas del Mundo
+# Los 21 Mejores Futbolistas del Mundo
 
-Este repositorio contiene el proceso de **diseño e implementación** de una página web estática titulada **“Los Mejores Futbolistas del Mundo”**.
+Proyecto web estático que presenta un recorrido visual e histórico por 21 de los futbolistas más influyentes de todos los tiempos, destacando su talento, disciplina y pasión por el fútbol.
+
+La página está diseñada para ofrecer una experiencia clara, visual y atractiva, combinando ilustraciones tipo caricatura con información relevante de cada jugador.
 
 El proyecto inicia con la creación de un **boceto (wireframe)** y posteriormente se desarrolla usando **HTML, CSS y JavaScript**, tomando como base dicho diseño.
 
@@ -20,7 +22,10 @@ La página web presenta información básica de algunos de los futbolistas más 
 
 - **Header** con el nombre de la aplicación y menú de navegación.
 - **Sección principal** con cards informativas de futbolistas.
-- Información como nombre, apodo, país y una breve descripción.
+- El sitio muestra a cada futbolista mediante una tarjeta ilustrada en estilo caricatura, acompañada de su nombre y un botón de Biografía.
+  Al hacer clic en el botón, el usuario accede a una vista detallada que incluye:
+    Una segunda ilustración en caricatura representando la jugada icónica del jugador.
+    Una reseña biográfica con sus inicios, trayectoria profesional, clubes, selecciones y principales reconocimientos.
 - **Formulario de contacto** para comentarios.
 - **Footer** con derechos reservados y enlaces a redes sociales.
 
@@ -45,6 +50,7 @@ La página web presenta información básica de algunos de los futbolistas más 
 - **Draw.io (diagrams.net)** – Boceto del diseño.
 - **HTML5** – Estructura del sitio web.
 - **CSS3** – Estilos y diseño visual.
+- **JavaScript** – Interactividad y navegación entre secciones.
 - **GitHub** – Control de versiones y almacenamiento del proyecto.
 
 ---
@@ -53,7 +59,7 @@ La página web presenta información básica de algunos de los futbolistas más 
 Aplicar conceptos fundamentales de:
 - Diseño web (header, cards, footer, formularios).
 - Planeación previa al desarrollo (boceto).
-- Creación de páginas web estáticas con HTML y CSS.
+- Creación de páginas web estáticas con HTML, CSS y JS.
 
 ---
 
