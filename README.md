@@ -43,6 +43,7 @@ La página web presenta información básica de algunos de los futbolistas más 
 - Uso de:
   - `index.html` para la estructura.
   - `style.css` para los estilos visuales.
+  - `main.js` para la navegación entre secciones.
 
 ---
 
